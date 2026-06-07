@@ -125,18 +125,24 @@ My focus is simple:
 
 ---
 
-## 🐍 Contribution Activity
+## 📊 GitHub Stats
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/Syam-devs/Syam-devs/output/github-contribution-grid-snake.svg" alt="Contribution Snake">
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Syam-devs&show_icons=true&theme=github_dark&hide_border=true"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Syam-devs&layout=compact&theme=github_dark&hide_border=true"/>
 </p>
 
-## 📈 Activity Graph
+## 🔥 Contribution Streak
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Syam-devs&theme=github-dark&hide_border=true&area=true">
+<img src="https://streak-stats.demolab.com?user=Syam-devs&theme=github-dark-blue&hide_border=true"/>
 </p>
----
+
+## 🐍 Contribution Snake
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/Syam-devs/Syam-devs/output/github-contribution-grid-snake.svg" alt="snake animation">
+</p>
 
 <h3 align="center">
 ⚡ AUTOMATE • DEPLOY • SCALE ⚡
