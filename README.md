@@ -10,21 +10,37 @@
 
 ---
 
-# 🚀 About Me
+## ⚡ About Me
 
-```yaml
-Name: Syam Datti
-Role: DevOps Engineer
-Focus:
-  - AWS Cloud
-  - Kubernetes
-  - Docker
-  - Terraform
-  - CI/CD
-  - Linux
-```
+Building cloud infrastructure. Automating deployments. Scaling applications.
 
-I build scalable cloud infrastructure, automate deployments, and implement DevOps solutions using modern cloud-native technologies.
+I specialize in designing modern DevOps solutions using AWS, Terraform, Docker, Kubernetes, GitHub Actions, and Linux.
+
+My focus is simple:
+
+✅ Automate everything possible
+
+✅ Build reliable cloud infrastructure
+
+✅ Deliver faster deployments
+
+✅ Create scalable production-ready systems
+
+### Tech Focus
+
+☁️ AWS Cloud
+
+🏗 Terraform
+
+🐳 Docker
+
+☸️ Kubernetes
+
+⚙️ CI/CD Automation
+
+🐧 Linux Administration
+
+📈 Monitoring & Observability
 
 ---
 
@@ -72,19 +88,24 @@ I build scalable cloud infrastructure, automate deployments, and implement DevOp
 
 ---
 
-# 💼 Services
+## 💼 What I Deliver
 
-✅ AWS Infrastructure Setup
+☁️ AWS Cloud Infrastructure
 
-✅ Terraform Automation
+🏗️ Terraform Infrastructure Automation
 
-✅ Docker & Kubernetes Deployments
+⚙️ End-to-End CI/CD Pipelines
 
-✅ CI/CD Pipelines
+🐳 Dockerized Application Deployments
 
-✅ Monitoring & Logging
+☸️ Kubernetes Cluster Management
 
-✅ Linux Administration
+🔄 Cloud & Application Migration
+
+📊 Monitoring & Logging Solutions
+
+🐧 Linux Server Administration
+
 
 ---
 
@@ -92,7 +113,7 @@ I build scalable cloud infrastructure, automate deployments, and implement DevOp
 
 <p align="center">
 
-<a href="YOUR_LINKEDIN_URL">
+<a href="https://www.linkedin.com/in/syam-datti/">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
@@ -104,19 +125,17 @@ I build scalable cloud infrastructure, automate deployments, and implement DevOp
 
 ---
 
-# 🐍 Contribution Snake
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Syam-devs/Syam-devs/output/github-snake-dark.svg">
-  <img alt="snake animation" src="https://raw.githubusercontent.com/Syam-devs/Syam-devs/output/github-snake-dark.svg">
-</picture>
-
----
+## 🐍 Contribution Activity
 
 <p align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Syam-devs&theme=github_dark"/>
+<img src="https://raw.githubusercontent.com/Syam-devs/Syam-devs/output/github-contribution-grid-snake.svg" alt="Contribution Snake">
 </p>
 
+## 📈 Activity Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Syam-devs&theme=github-dark&hide_border=true&area=true">
+</p>
 ---
 
 <h3 align="center">
