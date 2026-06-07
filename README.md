@@ -6,7 +6,7 @@
 
 <p align="center">
 📧 <b>syamdatti8@gmail.com</b> &nbsp;&nbsp;|&nbsp;&nbsp;
-💼 <a href="YOUR_LINKEDIN_URL">LinkedIn</a> &nbsp;&nbsp;|&nbsp;&nbsp;
+💼 <a href="https://www.linkedin.com/in/syam-datti/">LinkedIn</a> &nbsp;&nbsp;|&nbsp;&nbsp;
 🌐 <a href="https://github.com/Syam-devs">GitHub</a>
 </p>
 
