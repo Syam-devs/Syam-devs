@@ -5,6 +5,12 @@
 </p>
 
 <p align="center">
+📧 <b>syamdatti8@gmail.com</b> &nbsp;&nbsp;|&nbsp;&nbsp;
+💼 <a href="YOUR_LINKEDIN_URL">LinkedIn</a> &nbsp;&nbsp;|&nbsp;&nbsp;
+🌐 <a href="https://github.com/Syam-devs">GitHub</a>
+</p>
+
+<p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&pause=1000&color=2563EB&center=true&vCenter=true&width=1000&lines=AWS+Cloud+Engineer;DevOps+Engineer;Terraform+%7C+Docker+%7C+Kubernetes;CI%2FCD+Automation+Specialist;Infrastructure+as+Code;Cloud+Native+Solutions" />
 </p>
 
